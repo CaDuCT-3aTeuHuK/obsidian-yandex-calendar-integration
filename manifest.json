@@ -3,7 +3,7 @@
 	"name": "Yandex Calendar Integration",
 	"version": "0.0.1",
 	"minAppVersion": "1.8.0",
-	"description": "Plugin for integrating daily notes with Yandex Calendar",
+	"description": "Plugin for integrating daily notes with Yandex Calendar.",
 	"author": "CaDuCT-3aTeuHuK",
 	"authorUrl": "https://github.com/CaDuCT-3aTeuHuK",
 	"helpUrl": "",
