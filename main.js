@@ -464,7 +464,6 @@ class YandexCalendarIntegrationSettingTab extends obsidian.PluginSettingTab {
         const { containerEl } = this;
 
         containerEl.empty();
-        containerEl.createEl('h2', { text: 'Yandex Calendar Integration' });
 
         this.renderEmailSetting(containerEl);
         this.renderPasswordInput(containerEl);
